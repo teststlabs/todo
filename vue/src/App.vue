@@ -23,6 +23,8 @@
           <path d="M6 6L18 18" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
       </button>
+      <div>
+      </div>
     </div>
   </div>
   <div id="Main"
